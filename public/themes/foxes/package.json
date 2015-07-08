@@ -1,0 +1,11 @@
+{
+  "name": "foxes",
+  "version": "1.0.0",
+  "description": "Foxie's default theme powered by Foxie resposive css js framework.",
+  "main": "settings.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Crockett",
+  "license": "ISC"
+}
