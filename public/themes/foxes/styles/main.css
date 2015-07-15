@@ -1,0 +1,82 @@
+body .collapse.navbar-collapse > [class^="col-"] {
+	padding: 0;
+}
+body .intro {
+	float: left;
+	width: 100%;
+	position: relative;
+	min-height: 50vh;
+	color: #000;
+	border-top: 3px solid #c61033;
+}
+body .intro .hero {
+	margin-top: 400px;
+	background-color: #e2e2e2;
+	min-height: 100px;
+	position: relative;
+	margin-bottom: 200px;
+}
+body .intro .navbar.navbar-default {
+	background-color: #fff;
+	color: #404040;
+	border-radius: 0;
+	box-shadow: 0px 1px rgba(0,0,0,0.13);
+}
+body .intro .navbar.navbar-default a {
+	color: #404040;
+}
+body .intro div.navbar.nav {
+	margin-bottom: 0;
+}
+body .intro .navbar-brand {
+	padding: 0;
+}
+@media (min-width: 768px) {
+	body .intro .navbar-brand {
+		text-align: center;
+		display: block;
+		width: 100%;
+	}
+}
+body .intro .navbar-brand h1 {
+	display: inline-block;
+	margin: 0;
+	font-size: 1.5em;
+	position: relative;
+	top: -8px;
+	margin-left: 8px;
+	color: #404040;
+}
+body .intro .navbar-brand:before {
+	position: relative;
+	top: 4px;
+	display: inline-block;
+	content: url("https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/c0.0.40.40/p40x40/10954454_800360740047356_9159961053451965871_n.png?oh=d23cde030a05920b3fcdf7a2feec8b7b&oe=562DF34C&__gda__=1444614248_74425e0033fcfeef91e5f53ec6a21ca0");
+}
+body .usp h3 {
+	color: #c61033;
+}
+a,
+p,
+b {
+	color: #000;
+	font-family: 'Raleway', sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+	color: #333;
+	font-family: 'Raleway', sans-serif;
+}
+.navbar.navbar-default a {
+	color: #404040;
+}
+.navbar.navbar-default h1,
+.navbar.navbar-default h2,
+.navbar.navbar-default h3,
+.navbar.navbar-default h4,
+.navbar.navbar-default h5 {
+	color: ;
+}

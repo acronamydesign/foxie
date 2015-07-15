@@ -1,0 +1,20 @@
+{
+	"greensock":{
+		"include":["src","uncompressed"],
+		"ignore":[
+			"plugins",
+			"easing",
+			"utils",
+			"TimelineLite.js",
+			"TweenLite.js"
+		],
+		"compressed":false
+	},
+	"color-thief":{
+		"include":["src"]
+	},
+	"load":{
+		"jquery":1,
+		"bootstrap":2
+	}
+}

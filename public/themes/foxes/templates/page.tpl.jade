@@ -1,0 +1,88 @@
+body
+	div.intro
+		nav.navbar.navbar-default
+			.container-fluid
+				// Brand and toggle get grouped for better mobile display
+				.navbar-header
+					button.navbar-toggle.collapsed(type='button', data-toggle='collapse', data-target='#bs-example-navbar-collapse-1', aria-expanded='false')
+						span.sr-only Toggle navigation
+						span.icon-bar
+						span.icon-bar
+						span.icon-bar
+					.navbar-brand.hidden-sm.hidden-md.hidden-lg
+						h1 Acronamy
+				// Collect the nav links, forms, and other content for toggling
+				#bs-example-navbar-collapse-1.collapse.navbar-collapse
+					.col-md-4.col-sm-4
+						ul.nav.navbar-nav
+							li
+								a(href="#") Home
+							li.hidden-sm
+								a(href="#") Journal
+							li.dropdown
+								a.dropdown-toggle(href='#', data-toggle='dropdown', role='button', aria-haspopup='true', aria-expanded='false')
+									| Products
+									div.caret
+								ul.dropdown-menu
+									li.dropdown-header Online Services
+									li
+										a(href='#') Make a Website
+									li
+										a(href='#') Upgrade a Website
+									li
+										a(href='#') Host a Website
+									li.divider(role='separator')
+									li.dropdown-header Artworking Services
+									li
+										a(href='#') Create a Graphic
+									li
+										a(href='#') Create a Logo
+									li.divider(role='separator')
+									li.dropdown-header Product Prototype
+									li
+										a(href='#') 3D design
+									li
+										a(href='#') Package design
+
+					.col-md-4.col-sm-4.hidden-xs
+						div.nav.navbar
+							a(href='#').navbar-brand
+								h1 Acronamy
+					.col-md-4.col-sm-4
+						ul.nav.navbar-nav.navbar-right
+							li
+								a(href="#") Contact
+							li
+								a(href="#") Account
+				// /.navbar-collapse
+			// /.container-fluid
+		.fluid-container
+			.hero
+
+			h2.text-center Products
+			.col-md-4.usp
+				h3 First Impressions
+				p Lorem ipsum dolor sit amet, deleniti complectitur in his, vel ut hinc verear recusabo, ut iudico lucilius pro. Duo an prompta labores. Te sint conclusionemque sea. An prompta iuvaret his, cu quas dicam delicata mel.
+
+			.col-md-4.usp
+				h3 Getting to know you
+				p Lorem ipsum dolor sit amet, deleniti complectitur in his, vel ut hinc verear recusabo, ut iudico lucilius pro. Duo an prompta labores. Te sint conclusionemque sea. An prompta iuvaret his, cu quas dicam delicata mel.
+
+			.col-md-4.usp
+				h3 Prepared for the Future
+				p Lorem ipsum dolor sit amet, deleniti complectitur in his, vel ut hinc verear recusabo, ut iudico lucilius pro. Duo an prompta labores. Te sint conclusionemque sea. An prompta iuvaret his, cu quas dicam delicata mel.
+
+			// /.navbar-collapse
+		// /.container-fluid
+
+.container
+	h1 this is a theme heading and stugg
+	h2=site.name
+
+	!= render("navbar")
+	!= render("sidebar_primary")
+	!= render("sidebar_secondary")
+
+	h5 Hello changes okaas does it work how about now?
+
+!= foxie.scripts
