@@ -1,0 +1,47 @@
+.navbar,
+.navbar.nav,
+.navbar.nav.navbar-primary
+	//make a navbar flush
+	&.navbar-flush
+		margin-bottom 0
+	&.navbar-borderless
+		border-radius 0
+		border 0
+	&.navbar-whiteout
+		background-color:#fff;
+
+.navbar-default
+	background-color:#ECECEC;
+
+.navbar-xs
+	.navbar-primary
+		.navbar
+			min-height 28px
+			height 28px
+			.navbar-brand
+				padding 0px 12px
+				font-size 16px
+				line-height 28px
+			.navbar-nav
+				& > li
+					& > a
+						padding-top 0px
+						padding-bottom 0px
+						line-height 28px
+
+.navbar-sm
+	.navbar-primary
+		.navbar
+			min-height 40px
+			height 40px
+			.navbar-brand
+				padding 0px 12px
+				font-size 16px
+				line-height 40px
+			.navbar-nav
+				& > li
+					& > a
+						padding-top 0px
+						padding-bottom 0px
+						line-height 40px
+

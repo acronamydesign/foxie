@@ -1,0 +1,12 @@
+ul.list-group.col-md-2
+
+	-for(item in admin.adminMenu){
+	-var adminMenu = admin.adminMenu[item]
+	-var iconFont = "font-family: 'Glyphicons Halflings';"
+	-var unicode = "&#x"+adminMenu.icon+";"
+
+	a(href=adminMenu.url).list-group-item
+		span(style=iconFont)!=unicode+" "
+			span=adminMenu.title
+
+	-}

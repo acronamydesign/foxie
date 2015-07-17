@@ -1,9 +1,37 @@
-box["navbar_nav"] = "navbar"
-box["sidebar_second"] = "sidebar"
-box["content"] = "content"
+stylesheets = [
+	"styles/main.css"
+]
 
-classes["sidebar_second"] = ".sidebar";
-classes["content"] = ".main .some-class";
+scripts = [
+	"scripts/main.js"
+]
 
-wrapper["navbar_nav"] = "nav"
-wrapper["contnet"] = "main"
+libraries = [
+	"jquery",
+	"bootstrap",
+	"greensock"
+]
+
+build = {
+	enabled:true,//TODO
+	src:"/src",
+	dest:{
+		styles:"/styles",
+		images:"/images",
+		scripts:"/scripts"
+	},
+	options:{
+		styles:{
+			compress:true,
+			watch:true,//TODO
+			index:"/src/styles/main.styl"
+		},
+		scripts:{//TODO
+			compress:true,
+			index:"main"
+		},
+		images:{//TODO
+			compress:true
+		}
+	}
+}

@@ -1,0 +1,19 @@
+.navbar-default.navbar
+	&.navbar-trans
+		background-color:rgba(255,255,255,.9);
+		border:0;
+		border-top:3px solid lighten(#c61033,10%);
+		border-radius:0;
+	&.navbar-flush
+		margin-bottom:0;
+
+	.navbar-nav.nav
+		//active
+		.active > a
+				background-color:rgba(255,255,255,0);
+
+		li.dropdown > a
+			span.caret
+				display: block;
+				width: 4px;
+				margin: 5px auto 0 auto;

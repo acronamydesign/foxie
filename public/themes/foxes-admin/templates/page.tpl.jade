@@ -1,0 +1,18 @@
+include partials/navbar.jade
+-if(install){
+include partials/navbar--sub.jade
+
+.container-fluid
+	include partials/sidebar--primary.jade
+	include partials/content.jade
+
+include partials/navbar--status.jade
+
+!= foxie.scripts
+
+
+-}
+-else{//installer
+	include ../templates--install/partials/content.jade
+	h1 not installed
+-}

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+	 xmlns:dc="http://purl.org/dc/elements/1.1/"
+	 xmlns:cc="http://creativecommons.org/ns#"
+	 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	 xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg"
+	 xmlns:xlink="http://www.w3.org/1999/xlink"
+	 xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	 xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	 width="623"
+	 height="450"
+	 id="svg4408"
+	 version="1.1"
+	 inkscape:version="0.48.4 r9939"
+	 sodipodi:docname="New document 6">
+	<defs
+		 id="defs4410">
+		<clipPath
+			 id="SVGID_11_">
+			<use
+				 height="1052.3622"
+				 width="744.09448"
+				 y="0"
+				 x="0"
+				 style="overflow:visible"
+				 xlink:href="#SVGID_10_"
+				 overflow="visible"
+				 id="use4080" />
+		</clipPath>
+		<clipPath
+			 id="SVGID_9_">
+			<use
+				 height="1052.3622"
+				 width="744.09448"
+				 y="0"
+				 x="0"
+				 style="overflow:visible"
+				 xlink:href="#SVGID_8_"
+				 overflow="visible"
+				 id="use4066" />
+		</clipPath>
+		<clipPath
+			 id="SVGID_7_">
+			<use
+				 height="1052.3622"
+				 width="744.09448"
+				 y="0"
+				 x="0"
+				 style="overflow:visible"
+				 xlink:href="#SVGID_6_"
+				 overflow="visible"
+				 id="use4048" />
+		</clipPath>
+	</defs>
+	<sodipodi:namedview
+		 id="base"
+		 pagecolor="#ffffff"
+		 bordercolor="#666666"
+		 borderopacity="1.0"
+		 inkscape:pageopacity="0.0"
+		 inkscape:pageshadow="2"
+		 inkscape:zoom="0.7"
+		 inkscape:cx="197.92857"
+		 inkscape:cy="266.00469"
+		 inkscape:document-units="px"
+		 inkscape:current-layer="layer1"
+		 showgrid="false"
+		 fit-margin-top="0"
+		 fit-margin-left="0"
+		 fit-margin-right="0"
+		 fit-margin-bottom="0"
+		 inkscape:window-width="1366"
+		 inkscape:window-height="710"
+		 inkscape:window-x="0"
+		 inkscape:window-y="30"
+		 inkscape:window-maximized="1" />
+	<metadata
+		 id="metadata4413">
+		<rdf:RDF>
+			<cc:Work
+				 rdf:about="">
+				<dc:format>image/svg+xml</dc:format>
+				<dc:type
+					 rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+				<dc:title></dc:title>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<g
+		 inkscape:label="Layer 1"
+		 inkscape:groupmode="layer"
+		 id="layer1"
+		 transform="translate(-5.64286,-748.36686)">
+		<path
+			 style="fill:#232424"
+			 inkscape:connector-curvature="0"
+			 d="m 559.60236,1128.3896 c 0,2.872 -2.329,5.2 -5.2,5.2 H 79.902359 c -2.872,0 -5.2,-2.328 -5.2,-5.2 V 802.08961 c 0,-2.872 2.328,-5.2 5.2,-5.2 H 554.40236 c 2.871,0 5.2,2.328 5.2,5.2 v 326.29999 z"
+			 id="path4040" />
+		<g
+			 transform="translate(-358.77264,464.97761)"
+			 id="screen"
+			 inkscape:label="#g4042">
+			<defs
+				 id="defs4044">
+				<path
+					 inkscape:connector-curvature="0"
+					 id="SVGID_6_"
+					 d="m 918.416,663.8 c 0,2.872 -2.328,5.2 -5.2,5.2 h -474.6 c -2.872,0 -5.2,-2.328 -5.2,-5.2 V 337.2 c 0,-2.872 2.328,-5.2 5.2,-5.2 h 474.6 c 2.872,0 5.2,2.328 5.2,5.2 v 326.6 z" />
+			</defs>
+			<clipPath
+				 id="clipPath4380">
+				<use
+					 height="1052.3622"
+					 width="744.09448"
+					 y="0"
+					 x="0"
+					 style="overflow:visible"
+					 xlink:href="#SVGID_6_"
+					 overflow="visible"
+					 id="use4382" />
+			</clipPath>
+			<polygon
+				 style="opacity:0.07999998;fill:#ffffff"
+				 clip-path="url(#SVGID_7_)"
+				 points="586.542,677 729.44,322 421.416,322 421.416,677 "
+				 id="polygon4050" />
+		</g>
+		<g
+			 transform="translate(-358.77264,464.97761)"
+			 id="g4052">
+			<image
+				 id="screen-img"
+				 transform="translate(364.4155,668)"
+				 height="24"
+				 width="623"
+				 overflow="visible"
+				 style="opacity:0.26000001;overflow:visible;"
+				 xlink:href="/home/adam/1D8B8F4D.png" />
+			<g
+				 id="g4056">
+				<path
+					 style="fill:#84898c"
+					 inkscape:connector-curvature="0"
+					 d="m 983.39,669 c 0.55,0 1.025,0.388 1.025,0.938 v 9.7 c 0,0.55 -0.196,1.411 -0.422,1.913 l -3.885,3.959 c -0.502,0.226 -1.369,0.49 -1.919,0.49 h -603.8 c -0.55,0 -1.411,-0.265 -1.913,-0.49 l -3.766,-3.918 c -0.225,-0.502 -0.296,-1.404 -0.296,-1.954 v -9.7 c 0,-0.55 0.225,-0.938 0.774,-0.938 H 983.39 z"
+					 id="path4058" />
+			</g>
+		</g>
+		<g
+			 transform="translate(-358.77264,464.97761)"
+			 id="g4060">
+			<defs
+				 id="defs4062">
+				<path
+					 inkscape:connector-curvature="0"
+					 id="SVGID_8_"
+					 d="m 984.416,669 v 11.638 c 0,2.871 -2.354,5.362 -5.226,5.362 h -605.8 c -2.872,0 -4.974,-2.491 -4.974,-5.362 V 669 h 616 z" />
+			</defs>
+			<clipPath
+				 id="clipPath4392">
+				<use
+					 height="1052.3622"
+					 width="744.09448"
+					 y="0"
+					 x="0"
+					 style="overflow:visible"
+					 xlink:href="#SVGID_8_"
+					 overflow="visible"
+					 id="use4394" />
+			</clipPath>
+			<g
+				 clip-path="url(#SVGID_9_)"
+				 id="g4068">
+				<path
+					 style="fill:#6e7375"
+					 inkscape:connector-curvature="0"
+					 d="m 983.39,685 c 0.55,0 1.025,-0.013 1.025,0.537 v 9.7 c 0,0.55 -0.196,1.411 -0.422,1.913 l -3.885,3.66 c -0.502,0.225 -1.369,0.189 -1.919,0.189 h -603.8 c -0.55,0 -1.411,0.035 -1.913,-0.189 l -3.766,-3.77 c -0.225,-0.502 -0.296,-1.254 -0.296,-1.804 v -9.7 c 0,-0.55 0.225,-0.537 0.774,-0.537 H 983.39 z"
+					 id="path4070" />
+			</g>
+		</g>
+		<path
+			 style="fill:#676d6e"
+			 inkscape:connector-curvature="0"
+			 d="m 318.08536,1133.9156 h -1.137 -70.2 c 0,0 3.413,11.7 13.813,11.7 9.443,0 49.159,0 56.388,0 0.732,0 1.137,0 1.137,0 7.229,0 46.945,0 56.387,0 10.4,0 13.813,-11.7 13.813,-11.7 h -70.201 z"
+			 id="path4072" />
+		<g
+			 transform="translate(-307.34407,26.120469)"
+			 id="g4074">
+			<defs
+				 id="defs4076">
+				<rect
+					 id="SVGID_10_"
+					 x="450.41599"
+					 y="350"
+					 width="448"
+					 height="296" />
+			</defs>
+			<clipPath
+				 id="clipPath4402">
+				<use
+					 height="1052.3622"
+					 width="744.09448"
+					 y="0"
+					 x="0"
+					 style="overflow:visible"
+					 xlink:href="#SVGID_10_"
+					 overflow="visible"
+					 id="use4404" />
+			</clipPath>
+			<image
+				 style="overflow:visible"
+				 overflow="visible"
+				 width="452.32001"
+				 height="821.8089"
+				 id="foster_care_concept_beta"
+				 x="448.48239"
+				 y="350.4375" />
+		</g>
+	</g>
+</svg>

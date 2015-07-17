@@ -6,7 +6,8 @@
 			"easing",
 			"utils",
 			"TimelineLite.js",
-			"TweenLite.js"
+			"TweenLite.js",
+			"jquery.gasp.js"
 		],
 		"compressed":false
 	},
@@ -15,6 +16,7 @@
 	},
 	"load":{
 		"jquery":1,
-		"bootstrap":2
+		"bootstrap":2,
+		"greensock":3
 	}
 }

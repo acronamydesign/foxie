@@ -6,8 +6,7 @@
 
 
 stylesheets = [
-	"styles/main.css",
-	"styles/stylus.css"
+	"styles/main.css"
 ]
 
 scripts = [
@@ -19,6 +18,30 @@ libraries = [
 	"bootstrap",
 	"greensock"
 ]
+
+build = {
+	enabled:true,//TODO
+	src:"/src",
+	dest:{
+		styles:"/styles",
+		images:"/images",
+		scripts:"/scripts"
+	},
+	options:{
+		styles:{
+			compress:true,
+			watch:true,//TODO
+			index:"/src/styles/main.styl"
+		},
+		scripts:{//TODO
+			compress:true,
+			index:"main"
+		},
+		images:{//TODO
+			compress:true
+		}
+	}
+}
 
 ////how mixins go into boxes
 //mixin["navbar"] = {
